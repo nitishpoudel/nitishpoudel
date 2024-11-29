@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mini calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="calu">calculator</h1>
+    <div class="operator">
+        <input id="k">
+        <div class="container">
+            <button class="button" onclick="currentDisplay = currentDisplay = '';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">C</button>
+            
+            <button class="button" onclick="currentDisplay = currentDisplay + '1';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">1</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '2';
+            document.querySelector(`#k`).value = currentDisplay;
+
+            ">2</button>
+            <!-- Building calculator using javascript -->
+            <button class="button" onclick="currentDisplay = currentDisplay + '+';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">+</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '3';
+            document.querySelector(`#k`).value = currentDisplay;
+
+            ">3</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '4';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">4</button>
+             <button class="button" onclick="currentDisplay = currentDisplay + '-';
+             document.querySelector(`#k`).value = currentDisplay;
+             
+             ">-</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '5';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">5</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '6';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">6</button>
+
+           
+<button class="button" onclick="currentDisplay = currentDisplay + '*';
+document.querySelector(`#k`).value = currentDisplay;
+
+">*</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '7';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">7</button>
+          
+          <button class="button" onclick="currentDisplay = currentDisplay + '8';
+          document.querySelector(`#k`).value = currentDisplay;
+          
+          ">8</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '/';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">/</button>
+           <button class="button" onclick="currentDisplay = eval(currentDisplay);
+           document.querySelector(`#k`).value = currentDisplay;
+           ">=</button>
+            <button class="button" onclick="currentDisplay = currentDisplay + '9';
+            document.querySelector(`#k`).value = currentDisplay;
+            
+            ">9</button>
+           <button class="button" onclick="currentDisplay = currentDisplay + '0';
+           document.querySelector(`#k`).value = currentDisplay;
+           
+           ">0</button>
+             <button class="button" onclick="currentDisplay = currentDisplay + '.';
+             document.querySelector(`#k`).value = currentDisplay;
+             
+             ">.</button>
+            <!-- First time building calculator -->
+
+
+        </div>
+    </div>
+   <script src="script.js"></script>
+    
+</body>
+</html>
