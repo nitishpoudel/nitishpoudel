@@ -14,16 +14,7 @@
 - App Development
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/nitishpoudel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nitishpoudel&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="nitishpoudel's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=nitishpoudel&theme=nightowl&hide_border=true&cache_seconds=86400" alt="nitishpoudel's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=nitishpoudel&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nitish Poudel's GitHub Trophies" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
