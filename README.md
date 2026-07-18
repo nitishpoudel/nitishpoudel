@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Web Development
@@ -108,6 +108,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
 
 
 
