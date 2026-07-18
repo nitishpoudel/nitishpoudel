@@ -1,8 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nitish%20Poudel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20believe%20the%20best%20version%20of%20yourself%20is%20built%20the%20same%20way%20as%20great%20software%E2%80%94one%20improvement%20at%20a%20time." alt="Typing introduction" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Nitish Poudel</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=nitishpoudel">
@@ -10,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Web Development
@@ -99,6 +96,9 @@
   </a>
 </p>
 
+## 💬 Quote
+> I believe the best version of yourself is built the same way as great software—one improvement at a time.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
@@ -108,6 +108,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
 
 
 
