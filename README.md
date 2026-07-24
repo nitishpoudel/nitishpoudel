@@ -13,7 +13,7 @@
 
 
 ## 🧠 My Focus Areas
-- Web Development
+- Web Development.
 - App Development
 
 
