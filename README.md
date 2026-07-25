@@ -13,8 +13,9 @@
 
 
 ## 🧠 My Focus Areas
-- Web Development..
-- App Development..
+- Web Development.
+- App Development.
+- AI
 
 
 ## 📊 GitHub Stats & Trophies
