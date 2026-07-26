@@ -83,7 +83,7 @@
 ![Top language](https://stats.pphat.top/languages?username=nitishpoudel)
 <br/>
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me.
 <p align="center">
   <a href="nitish poudel">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
