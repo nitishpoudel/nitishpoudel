@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me..
-- I believe every project is an opportunity to learn, every bug is a lesson, and every solution is a step toward becoming a better developer. I'm passionate about building software that makes a real impact..
+- I believe every project is an opportunity to learn, every bug is a lesson, and every solution is a step toward becoming a better developer. I'm passionate about building software that makes a real impact.
 
 
 ## 🧠 My Focus Areas
@@ -18,7 +18,7 @@
 - AI..
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Trophies.
 <p align="center">
   <a href="https://github.com/nitishpoudel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nitishpoudel&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="nitishpoudel's GitHub Stats" />
